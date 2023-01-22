@@ -5,4 +5,9 @@ functionality: addition
 	add them and store it in a var
 	return var
 	
+
+functionality: subtract
+	get 2 num
+	minus then and store it in a var
+	return var
 	
