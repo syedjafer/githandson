@@ -1,0 +1,8 @@
+
+
+functionality: addition
+	get 2 nums
+	add them and store it in a var
+	return var
+	
+	
